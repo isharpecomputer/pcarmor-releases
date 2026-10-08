@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.1.0/PCArmor-Setup-1.1.0.exe",
-  "sha256": "8C9732A9FA19C361FA04D8BB7421A78D3EA657FB5EDDB6431F80F2BB6210C90D",
-  "sizeBytes": 59992638,
-  "releasedUtc": "2026-10-08T00:04:22Z",
-  "notes": "First release with dashboard licensing: PC Armor registers under the customer\u0027s email, checks in to the iSharpe dashboard, and updates itself from signed releases. Also verifies that detected threats were really removed."
+  "version": "1.2.0",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.0/PCArmor-Setup-1.2.0.exe",
+  "sha256": "ED8173705B9444B4ED308B9F78C100337CEC48B0F33B6AA7A44356AC714B03A6",
+  "sizeBytes": 70375274,
+  "releasedUtc": "2026-10-08T00:31:12Z",
+  "notes": "New: a PC Armor icon next to the clock with optional on-screen scan reports and notifications when something needs attention. Fixes the \u0027Activate PC Armor\u0027 message staying on screen after activating, and a nicer scroll bar."
 }
