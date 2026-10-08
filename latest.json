@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.2/PCArmor-Setup-1.2.2.exe",
-  "sha256": "941EE9A71B6576717F09D43AD7A8C1E53C2D4B9B81BF3713DA4D4699477D944C",
-  "sizeBytes": 70384534,
-  "releasedUtc": "2026-10-08T11:47:36Z",
-  "notes": "Opens without a Windows permission prompt each time; welcome screen when Windows starts."
+  "version": "1.2.3",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.3/PCArmor-Setup-1.2.3.exe",
+  "sha256": "B48C80063B3603DA4EE80A55D0F80B5E464FD285F055593F5CAB606953F0CD11",
+  "sizeBytes": 70383274,
+  "releasedUtc": "2026-10-08T12:08:08Z",
+  "notes": "Fixes the Windows permission prompt still appearing when opening PC Armor from its shortcut."
 }
