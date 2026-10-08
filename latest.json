@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.0/PCArmor-Setup-1.2.0.exe",
-  "sha256": "ED8173705B9444B4ED308B9F78C100337CEC48B0F33B6AA7A44356AC714B03A6",
-  "sizeBytes": 70375274,
-  "releasedUtc": "2026-10-08T00:31:12Z",
-  "notes": "New: a PC Armor icon next to the clock with optional on-screen scan reports and notifications when something needs attention. Fixes the \u0027Activate PC Armor\u0027 message staying on screen after activating, and a nicer scroll bar."
+  "version": "1.2.1",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.1/PCArmor-Setup-1.2.1.exe",
+  "sha256": "C50DB4CE67E86D3D60CF394C826E72D324005A9003D75D1EA292FC1F3328C391",
+  "sizeBytes": 70381536,
+  "releasedUtc": "2026-10-08T11:14:16Z",
+  "notes": "A livelier scan screen (connected stage pipeline, scanning beam, glowing area chips and a live areas-checked counter). The main screen now says \u0027Your PC is protected\u0027 only when that is true, and shows when the last scan ran."
 }
