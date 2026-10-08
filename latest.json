@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.1/PCArmor-Setup-1.2.1.exe",
-  "sha256": "C50DB4CE67E86D3D60CF394C826E72D324005A9003D75D1EA292FC1F3328C391",
-  "sizeBytes": 70381536,
-  "releasedUtc": "2026-10-08T11:14:16Z",
-  "notes": "A livelier scan screen (connected stage pipeline, scanning beam, glowing area chips and a live areas-checked counter). The main screen now says \u0027Your PC is protected\u0027 only when that is true, and shows when the last scan ran."
+  "version": "1.2.2",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.2.2/PCArmor-Setup-1.2.2.exe",
+  "sha256": "941EE9A71B6576717F09D43AD7A8C1E53C2D4B9B81BF3713DA4D4699477D944C",
+  "sizeBytes": 70384534,
+  "releasedUtc": "2026-10-08T11:47:36Z",
+  "notes": "Opens without a Windows permission prompt each time; welcome screen when Windows starts."
 }
