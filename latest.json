@@ -1,8 +1,8 @@
 {
-  "version": "1.3.1",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.3.1/PCArmor-Setup-1.3.1.exe",
-  "sha256": "28E119D8C7866DA09B5DAE41E6B1894AD9F0EAC571F21C4BB0DFD315F93E370D",
-  "sizeBytes": 70388708,
-  "releasedUtc": "2026-10-10T11:55:01Z",
-  "notes": "Fixes updates that never finished installing when the PC Armor tray icon was running."
+  "version": "1.4.0",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.0/PCArmor-Setup-1.4.0.exe",
+  "sha256": "8F32915840C1BC88421FC579EFC187E1022A7B1D28F7D7ABAC005F395E9817EF",
+  "sizeBytes": 70394557,
+  "releasedUtc": "2026-10-10T12:17:37Z",
+  "notes": "Your support company can now show you a message on screen when it needs to tell you something."
 }
