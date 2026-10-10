@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.0/PCArmor-Setup-1.4.0.exe",
-  "sha256": "8F32915840C1BC88421FC579EFC187E1022A7B1D28F7D7ABAC005F395E9817EF",
-  "sizeBytes": 70394557,
-  "releasedUtc": "2026-10-10T12:17:37Z",
-  "notes": "Your support company can now show you a message on screen when it needs to tell you something."
+  "version": "1.4.1",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.1/PCArmor-Setup-1.4.1.exe",
+  "sha256": "6475495D45579C752D525FE3971D4E3B02ADBF921FFA0D6E84353B8ED2D7119E",
+  "sizeBytes": 70397411,
+  "releasedUtc": "2026-10-10T12:28:58Z",
+  "notes": "Messages from your support company can include a link, and instructions from the dashboard now arrive within seconds instead of up to five minutes."
 }
