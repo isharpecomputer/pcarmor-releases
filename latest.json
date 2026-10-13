@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.1/PCArmor-Setup-1.4.1.exe",
-  "sha256": "6475495D45579C752D525FE3971D4E3B02ADBF921FFA0D6E84353B8ED2D7119E",
-  "sizeBytes": 70397411,
-  "releasedUtc": "2026-10-10T12:28:58Z",
-  "notes": "Messages from your support company can include a link, and instructions from the dashboard now arrive within seconds instead of up to five minutes."
+  "version": "1.4.2",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.2/PCArmor-Setup-1.4.2.exe",
+  "sha256": "AD8B14D88B22D4378B0C3DA39D5E4C4CBFEE04D0B9FFB88290170A9559C0A4B6",
+  "sizeBytes": 70397599,
+  "releasedUtc": "2026-10-13T14:55:22Z",
+  "notes": "Sends a device id at check-in, so the dashboard shows a computer running SystemCare and PC Armor as one."
 }
