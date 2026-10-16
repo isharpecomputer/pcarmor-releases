@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.3/PCArmor-Setup-1.4.3.exe",
-  "sha256": "0C4A0D2FA5719AD6C5FE70BC4E17AA58DD72C67992DD7C7BA9F6CC05625287EA",
-  "sizeBytes": 70406964,
-  "releasedUtc": "2026-10-16T14:32:27Z",
-  "notes": "Click any item in the last scan to see what it was, where it was found and what happened to it."
+  "version": "1.4.4",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.4/PCArmor-Setup-1.4.4.exe",
+  "sha256": "8AC4B8717EBB5F1AA5A57D79D3DD1E422372E3D24C3E9363CAA5B0704DEF6404",
+  "sizeBytes": 70408797,
+  "releasedUtc": "2026-10-16T16:04:44Z",
+  "notes": "Lets iSharpe SystemCare restart the PC Armor icon if it stops."
 }
