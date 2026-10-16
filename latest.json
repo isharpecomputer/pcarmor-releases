@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.2/PCArmor-Setup-1.4.2.exe",
-  "sha256": "AD8B14D88B22D4378B0C3DA39D5E4C4CBFEE04D0B9FFB88290170A9559C0A4B6",
-  "sizeBytes": 70397599,
-  "releasedUtc": "2026-10-13T14:55:22Z",
-  "notes": "Sends a device id at check-in, so the dashboard shows a computer running SystemCare and PC Armor as one."
+  "version": "1.4.3",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.3/PCArmor-Setup-1.4.3.exe",
+  "sha256": "0C4A0D2FA5719AD6C5FE70BC4E17AA58DD72C67992DD7C7BA9F6CC05625287EA",
+  "sizeBytes": 70406964,
+  "releasedUtc": "2026-10-16T14:32:27Z",
+  "notes": "Click any item in the last scan to see what it was, where it was found and what happened to it."
 }
