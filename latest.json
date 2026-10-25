@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.4/PCArmor-Setup-1.4.4.exe",
-  "sha256": "8AC4B8717EBB5F1AA5A57D79D3DD1E422372E3D24C3E9363CAA5B0704DEF6404",
-  "sizeBytes": 70408797,
-  "releasedUtc": "2026-10-16T16:04:44Z",
-  "notes": "Lets iSharpe SystemCare restart the PC Armor icon if it stops."
+  "version": "1.4.5",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.5/PCArmor-Setup-1.4.5.exe",
+  "sha256": "F9DBC6B8229070A1670304C0AF67DA93902371F3864BA19E13DB466D12914F8D",
+  "sizeBytes": 70414156,
+  "releasedUtc": "2026-10-25T19:57:26Z",
+  "notes": "Lets your support company add iSharpe SystemCare to this computer from its dashboard, downloaded from SystemCare\u0027s own signed releases."
 }
