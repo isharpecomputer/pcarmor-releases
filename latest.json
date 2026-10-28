@@ -1,8 +1,8 @@
 {
-  "version": "1.4.5",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.5/PCArmor-Setup-1.4.5.exe",
-  "sha256": "F9DBC6B8229070A1670304C0AF67DA93902371F3864BA19E13DB466D12914F8D",
-  "sizeBytes": 70414156,
-  "releasedUtc": "2026-10-25T19:57:26Z",
-  "notes": "Lets your support company add iSharpe SystemCare to this computer from its dashboard, downloaded from SystemCare\u0027s own signed releases."
+  "version": "1.4.6",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.6/PCArmor-Setup-1.4.6.exe",
+  "sha256": "1045C0C364DCEEF1E0C120B5A8BBBBED316BAB541ED41A3686E71879ABE03F24",
+  "sizeBytes": 70415377,
+  "releasedUtc": "2026-10-28T16:47:49Z",
+  "notes": "Setup can no longer hang: the firewall install now has a time limit, so the installer always finishes."
 }
