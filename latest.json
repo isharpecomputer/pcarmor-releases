@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.6/PCArmor-Setup-1.4.6.exe",
-  "sha256": "1045C0C364DCEEF1E0C120B5A8BBBBED316BAB541ED41A3686E71879ABE03F24",
-  "sizeBytes": 70415377,
-  "releasedUtc": "2026-10-28T16:47:49Z",
-  "notes": "Setup can no longer hang: the firewall install now has a time limit, so the installer always finishes."
+  "version": "1.4.7",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.7/PCArmor-Setup-1.4.7.exe",
+  "sha256": "34B9696AD6525CA5AFA858C2887F2A1101F7A0C2E1872822F7B3166809229E74",
+  "sizeBytes": 70413810,
+  "releasedUtc": "2026-10-29T16:44:38Z",
+  "notes": "PC Armor\u0027s window and icon now open straight away on slow, busy computers."
 }
