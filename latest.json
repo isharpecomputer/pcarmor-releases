@@ -1,8 +1,8 @@
 {
-  "version": "1.4.7",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.7/PCArmor-Setup-1.4.7.exe",
-  "sha256": "34B9696AD6525CA5AFA858C2887F2A1101F7A0C2E1872822F7B3166809229E74",
-  "sizeBytes": 70413810,
-  "releasedUtc": "2026-10-29T16:44:38Z",
-  "notes": "PC Armor\u0027s window and icon now open straight away on slow, busy computers."
+  "version": "1.4.8",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.8/PCArmor-Setup-1.4.8.exe",
+  "sha256": "B4267137E52A4BBFEAC2676A82B962D155E601E0E182D2564E32D14115E27117",
+  "sizeBytes": 70415626,
+  "releasedUtc": "2026-10-31T15:28:50Z",
+  "notes": "Uninstalling PC Armor now always removes its DNS firewall too, putting the computer\u0027s DNS back as it was, and closes PC Armor first so nothing is left behind."
 }
