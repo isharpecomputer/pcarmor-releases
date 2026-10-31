@@ -1,8 +1,8 @@
 {
-  "version": "1.4.8",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.8/PCArmor-Setup-1.4.8.exe",
-  "sha256": "B4267137E52A4BBFEAC2676A82B962D155E601E0E182D2564E32D14115E27117",
-  "sizeBytes": 70415626,
-  "releasedUtc": "2026-10-31T15:28:50Z",
-  "notes": "Uninstalling PC Armor now always removes its DNS firewall too, putting the computer\u0027s DNS back as it was, and closes PC Armor first so nothing is left behind."
+  "version": "1.4.9",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.9/PCArmor-Setup-1.4.9.exe",
+  "sha256": "BABC13694ED9DC98FDA1D663A5835646D3E3E235E4F161F6F360BFA40CB9B18A",
+  "sizeBytes": 70416872,
+  "releasedUtc": "2026-10-31T16:03:37Z",
+  "notes": "If PC Armor\u0027s DNS firewall doesn\u0027t go on (for example when Windows Defender blocks the download), PC Armor tries again by itself."
 }
