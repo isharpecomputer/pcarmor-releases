@@ -1,8 +1,8 @@
 {
-  "version": "1.4.9",
-  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.9/PCArmor-Setup-1.4.9.exe",
-  "sha256": "BABC13694ED9DC98FDA1D663A5835646D3E3E235E4F161F6F360BFA40CB9B18A",
-  "sizeBytes": 70416872,
-  "releasedUtc": "2026-10-31T16:03:37Z",
-  "notes": "If PC Armor\u0027s DNS firewall doesn\u0027t go on (for example when Windows Defender blocks the download), PC Armor tries again by itself."
+  "version": "1.4.10",
+  "installerUrl": "https://github.com/isharpecomputer/pcarmor-releases/releases/download/v1.4.10/PCArmor-Setup-1.4.10.exe",
+  "sha256": "5BF9D8D71E680919FCB9895047CE430DCC55E8F99E0BCECCE05B2978D45FEBF3",
+  "sizeBytes": 70447736,
+  "releasedUtc": "2026-11-06T12:30:42Z",
+  "notes": "Signed as iSharpe Computer Solutions, so Windows Smart App Control trusts the installer and the app."
 }
